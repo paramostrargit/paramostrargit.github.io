@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | MELyMCB</title>
+    <link>https://paramostrargit.github.io/talk/</link>
+      <atom:link href="https://paramostrargit.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Nov 2020 14:10:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://paramostrargit.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Estudio de inmunoterapias aplicadas a microambientes tumorales a traves de un modelo basado en multiagentes.</title>
+      <link>https://paramostrargit.github.io/talk/jornadas2020/</link>
+      <pubDate>Mon, 30 Nov 2020 14:10:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/talk/jornadas2020/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/RmdCuclPRUk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

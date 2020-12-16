@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A.M. Mesón | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/a.m.-meson/</link>
+      <atom:link href="https://paramostrargit.github.io/author/a.m.-meson/index.xml" rel="self" type="application/rss+xml" />
+    <description>A.M. Mesón</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>A.M. Mesón</title>
+      <link>https://paramostrargit.github.io/author/a.m.-meson/</link>
+    </image>
+    
+    <item>
+      <title>Multifractal Analysis for the Teichmüller Flow</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0053/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0053/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Multifractal Rigidity</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0058/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0058/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the uniqueness of Gibbs states in some dynamical systems</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0086/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0086/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the hausdorff measure of irregular multifractal sets in hyperbolic flows</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0106/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0106/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropies of groups as knot invariants</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0128/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0128/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometric constructions and multifractal analysis for boundary hyperholic maps</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0132/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0132/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multifractal analysis of the Lyapunov spectrum</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0134/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0134/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimates for the Ghys-Langevin-Walczak entropy</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0138/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0138/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

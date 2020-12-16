@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W.R. Fawcett | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/w.r.-fawcett/</link>
+      <atom:link href="https://paramostrargit.github.io/author/w.r.-fawcett/index.xml" rel="self" type="application/rss+xml" />
+    <description>W.R. Fawcett</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 1994 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>W.R. Fawcett</title>
+      <link>https://paramostrargit.github.io/author/w.r.-fawcett/</link>
+    </image>
+    
+    <item>
+      <title>Erratum: On the mean spherical approximation for hard ions and dipoles (Journal of Chemical Physics (1992) 96 (3039))</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0170/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0170/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the mean spherical approximation for hard ions and dipoles</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0179/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0179/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E.R. Caffarena | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/e.r.-caffarena/</link>
+      <atom:link href="https://paramostrargit.github.io/author/e.r.-caffarena/index.xml" rel="self" type="application/rss+xml" />
+    <description>E.R. Caffarena</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>E.R. Caffarena</title>
+      <link>https://paramostrargit.github.io/author/e.r.-caffarena/</link>
+    </image>
+    
+    <item>
+      <title>The role of hydrophobicity in the cold denaturation of proteins under high pressure: A study on apomyoglobin</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0003/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pressure effect on micellization of non-ionic surfactant Triton X-100</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0011/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plausible binding mode of the active α4β1 antagonist, MK-0617, determined by docking and free energy calculations</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0047/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0047/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydration properties of xylitol: Computer simulation</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0150/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0150/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

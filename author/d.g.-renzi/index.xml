@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D.G. Renzi | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/d.g.-renzi/</link>
+      <atom:link href="https://paramostrargit.github.io/author/d.g.-renzi/index.xml" rel="self" type="application/rss+xml" />
+    <description>D.G. Renzi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>D.G. Renzi</title>
+      <link>https://paramostrargit.github.io/author/d.g.-renzi/</link>
+    </image>
+    
+    <item>
+      <title>Clustering and percolation theory for continuum systems: Clusters with nonspecific bonds and a residence time in their definition</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0007/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic algorithm for the pair distribution function of the electron gas</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0059/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0059/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum hypernetted chain approximation for one-dimensional fermionic systems</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0076/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0076/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A genetic algorithm for the 1D electron gas</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0102/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0102/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydration properties and potentials of mean force of nonpolar amino acid residues in water: A pertubation theoretic approach</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0114/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0114/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

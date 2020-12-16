@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A.N. Garazo | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/a.n.-garazo/</link>
+      <atom:link href="https://paramostrargit.github.io/author/a.n.-garazo/index.xml" rel="self" type="application/rss+xml" />
+    <description>A.N. Garazo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 1989 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>A.N. Garazo</title>
+      <link>https://paramostrargit.github.io/author/a.n.-garazo/</link>
+    </image>
+    
+    <item>
+      <title>Surface temperature of a liquid-vapor interface</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0188/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0188/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact and approximate boundary conditions of a fluid interface</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0197/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0197/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory of surface tension and its application to simple fluids</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0196/</link>
+      <pubDate>Thu, 01 Jan 1987 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0196/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

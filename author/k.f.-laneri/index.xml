@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K.F. Laneri | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/k.f.-laneri/</link>
+      <atom:link href="https://paramostrargit.github.io/author/k.f.-laneri/index.xml" rel="self" type="application/rss+xml" />
+    <description>K.F. Laneri</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2002 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>K.F. Laneri</title>
+      <link>https://paramostrargit.github.io/author/k.f.-laneri/</link>
+    </image>
+    
+    <item>
+      <title>Distribution of interstitials in fcc iron-carbon austenite: Monte Carlo simulations versus Mössbauer analysis</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0131/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0131/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution of interstitials in fcc iron-carbon austenite: Monte Carlo simulations versus Mössbauer analysis</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0137/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0137/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monte Carlo Simulations of Mössbauer Results in Fe–C Austenite</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0141/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0141/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

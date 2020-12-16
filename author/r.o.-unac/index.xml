@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R.O. Uñac | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/r.o.-unac/</link>
+      <atom:link href="https://paramostrargit.github.io/author/r.o.-unac/index.xml" rel="self" type="application/rss+xml" />
+    <description>R.O. Uñac</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>R.O. Uñac</title>
+      <link>https://paramostrargit.github.io/author/r.o.-unac/</link>
+    </image>
+    
+    <item>
+      <title>The effect of the packing fraction on the jamming of granular flow through small apertures</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0052/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0052/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple model for wet granular beds subjected to tapping</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0083/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0083/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

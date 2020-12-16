@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inmunoterapias | MELyMCB</title>
+    <link>https://paramostrargit.github.io/es/tag/inmunoterapias/</link>
+      <atom:link href="https://paramostrargit.github.io/es/tag/inmunoterapias/index.xml" rel="self" type="application/rss+xml" />
+    <description>Inmunoterapias</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>Inmunoterapias</title>
+      <link>https://paramostrargit.github.io/es/tag/inmunoterapias/</link>
+    </image>
+    
+    <item>
+      <title>Estudio de inmunoterapias aplicadas a microambientes tumorales mediante un modelo basado en multiagentes</title>
+      <link>https://paramostrargit.github.io/es/project/cancer/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/es/project/cancer/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Resumen del proyecto&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

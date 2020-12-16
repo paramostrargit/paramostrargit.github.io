@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.J. Weis | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/j.j.-weis/</link>
+      <atom:link href="https://paramostrargit.github.io/author/j.j.-weis/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.J. Weis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 1993 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>J.J. Weis</title>
+      <link>https://paramostrargit.github.io/author/j.j.-weis/</link>
+    </image>
+    
+    <item>
+      <title>Monte carlo simulations of polar discotic molecules</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0172/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0172/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singlet orientational distribution function and dielectric permittivity of dipolar spherocylinders in the nematic phase</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0171/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0171/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

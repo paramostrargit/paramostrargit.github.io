@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Sánchez | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/m.-sanchez/</link>
+      <atom:link href="https://paramostrargit.github.io/author/m.-sanchez/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Sánchez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Sánchez</title>
+      <link>https://paramostrargit.github.io/author/m.-sanchez/</link>
+    </image>
+    
+    <item>
+      <title>Numerical simulation of proppant transport in a planar fracture. A study of perforation placement and injection strategy</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0004/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of particle shape and fragmentation on the response of particle dampers</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0035/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0035/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear dynamic analysis of an optimal particle damper</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0043/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0043/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal response of optimal granular damping devices</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0050/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0050/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective mass overshoot in single degree of freedom mechanical systems with a particle damper</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0060/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0060/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

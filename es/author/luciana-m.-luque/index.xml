@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luciana M. Luque | MELyMCB</title>
+    <link>https://paramostrargit.github.io/es/author/luciana-m.-luque/</link>
+      <atom:link href="https://paramostrargit.github.io/es/author/luciana-m.-luque/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luciana M. Luque</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Mon, 30 Nov 2020 14:10:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>Luciana M. Luque</title>
+      <link>https://paramostrargit.github.io/es/author/luciana-m.-luque/</link>
+    </image>
+    
+    <item>
+      <title>Estudio de inmunoterapias aplicadas a microambientes tumorales a traves de un modelo basado en multiagentes.</title>
+      <link>https://paramostrargit.github.io/es/talk/jornadas2020/</link>
+      <pubDate>Mon, 30 Nov 2020 14:10:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/es/talk/jornadas2020/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/RmdCuclPRUk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Terminó el congreso de los pájaros</title>
+      <link>https://paramostrargit.github.io/es/post/2020/noticia2/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/es/post/2020/noticia2/</guid>
+      <description>&lt;p&gt;La cena fue lo mejor.&lt;/p&gt;
+&lt;p&gt;Comimos en El Retiro! =)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Estudio de inmunoterapias aplicadas a microambientes tumorales mediante un modelo basado en multiagentes</title>
+      <link>https://paramostrargit.github.io/es/project/cancer/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/es/project/cancer/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Resumen del proyecto&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Numerical simulations study of a spin-1 Blume–Emery–Griffiths model on a square lattice</title>
+      <link>https://paramostrargit.github.io/es/publication/luque-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/es/publication/luque-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical evidence of hyperscaling violation in wetting transitions of the random-bond Ising model in $d=2$ dimensions</title>
+      <link>https://paramostrargit.github.io/es/publication/phys-rev-e-95-022801/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/es/publication/phys-rev-e-95-022801/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estudio de la influencia del confinammiento en las propiedades críticas de un modelo con tres estados de espín</title>
+      <link>https://paramostrargit.github.io/es/project/wetting/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/es/project/wetting/</guid>
+      <description>&lt;p&gt;El objetivo de este proyecto es estudiar los efectos del confinamiento en un modelo con tres estados de espín y, en particular, la segregación del tercer estado de espín $s_{i}=0$ (que también suele ser identificado como impurezas) en la interfase. Dicho fenómeno se conoce como adsorción interfacial. Para ello se combinan técnicas computacionales y métodos utilizados en la mecánica estadística.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

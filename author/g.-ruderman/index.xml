@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Ruderman | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/g.-ruderman/</link>
+      <atom:link href="https://paramostrargit.github.io/author/g.-ruderman/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Ruderman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 1992 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Ruderman</title>
+      <link>https://paramostrargit.github.io/author/g.-ruderman/</link>
+    </image>
+    
+    <item>
+      <title>Threshold frequency for the ionic screening of electric fields in electrolyte solutions</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0176/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0176/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the threshold frequency of long-range interactions in physiological solutions</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0187/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0187/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

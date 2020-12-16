@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wang-Landau | MELyMCB</title>
+    <link>https://paramostrargit.github.io/tag/wang-landau/</link>
+      <atom:link href="https://paramostrargit.github.io/tag/wang-landau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wang-Landau</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>Wang-Landau</title>
+      <link>https://paramostrargit.github.io/tag/wang-landau/</link>
+    </image>
+    
+    <item>
+      <title>Estudio de la influencia del confinammiento en las propiedades críticas de un modelo con tres estados de espín</title>
+      <link>https://paramostrargit.github.io/project/wetting/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/project/wetting/</guid>
+      <description>&lt;p&gt;El objetivo de este proyecto es estudiar los efectos del confinamiento en un modelo con tres estados de espín y, en particular, la segregación del tercer estado de espín $s_{i}=0$ (que también suele ser identificado como impurezas) en la interfase. Dicho fenómeno se conoce como adsorción interfacial. Para ello se combinan técnicas computacionales y métodos utilizados en la mecánica estadística.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

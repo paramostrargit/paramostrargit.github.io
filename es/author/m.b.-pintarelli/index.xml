@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.B. Pintarelli | MELyMCB</title>
+    <link>https://paramostrargit.github.io/es/author/m.b.-pintarelli/</link>
+      <atom:link href="https://paramostrargit.github.io/es/author/m.b.-pintarelli/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.B. Pintarelli</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>M.B. Pintarelli</title>
+      <link>https://paramostrargit.github.io/es/author/m.b.-pintarelli/</link>
+    </image>
+    
+    <item>
+      <title>Non linear second order partial differential equations as generalized inverse moment problems</title>
+      <link>https://paramostrargit.github.io/es/publication/melymcb-0013/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/es/publication/melymcb-0013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the numerical solution of the linear and nonlinear Poisson equations seen as bi-dimensional inverse moment problems</title>
+      <link>https://paramostrargit.github.io/es/publication/melymcb-0019/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/es/publication/melymcb-0019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

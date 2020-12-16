@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W.R. Smith | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/w.r.-smith/</link>
+      <atom:link href="https://paramostrargit.github.io/author/w.r.-smith/index.xml" rel="self" type="application/rss+xml" />
+    <description>W.R. Smith</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 1989 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>W.R. Smith</title>
+      <link>https://paramostrargit.github.io/author/w.r.-smith/</link>
+    </image>
+    
+    <item>
+      <title>Phase equilibria in model binary mixtures I. Dipolar hard spheres of equal size</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0192/</link>
+      <pubDate>Sun, 01 Jan 1989 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0192/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

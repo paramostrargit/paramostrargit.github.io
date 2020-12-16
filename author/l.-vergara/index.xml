@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Vergara | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/l.-vergara/</link>
+      <atom:link href="https://paramostrargit.github.io/author/l.-vergara/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Vergara</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>L. Vergara</title>
+      <link>https://paramostrargit.github.io/author/l.-vergara/</link>
+    </image>
+    
+    <item>
+      <title>Distribution of interstitial atoms in FCC Fe-N alloys: A Mössbauer, thermodynamic and Monte Carlo approach</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0117/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0117/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution of N atoms in the fcc Fe-N interstitial solid solution</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0125/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0125/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

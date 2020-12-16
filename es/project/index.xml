@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | MELyMCB</title>
+    <link>https://paramostrargit.github.io/es/project/</link>
+      <atom:link href="https://paramostrargit.github.io/es/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://paramostrargit.github.io/es/project/</link>
+    </image>
+    
+    <item>
+      <title>Estudio de inmunoterapias aplicadas a microambientes tumorales mediante un modelo basado en multiagentes</title>
+      <link>https://paramostrargit.github.io/es/project/cancer/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/es/project/cancer/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Resumen del proyecto&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estudio de la influencia del confinammiento en las propiedades críticas de un modelo con tres estados de espín</title>
+      <link>https://paramostrargit.github.io/es/project/wetting/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/es/project/wetting/</guid>
+      <description>&lt;p&gt;El objetivo de este proyecto es estudiar los efectos del confinamiento en un modelo con tres estados de espín y, en particular, la segregación del tercer estado de espín $s_{i}=0$ (que también suele ser identificado como impurezas) en la interfase. Dicho fenómeno se conoce como adsorción interfacial. Para ello se combinan técnicas computacionales y métodos utilizados en la mecánica estadística.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

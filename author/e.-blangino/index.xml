@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Blangino | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/e.-blangino/</link>
+      <atom:link href="https://paramostrargit.github.io/author/e.-blangino/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Blangino</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>E. Blangino</title>
+      <link>https://paramostrargit.github.io/author/e.-blangino/</link>
+    </image>
+    
+    <item>
+      <title>Mathematical modeling of uniaxial mechanical properties of collagen gel scaffolds for vascular tissue engineering</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0032/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0032/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling of the dielectric properties of trabecular bone samples at microwave frequency</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0036/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0036/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dielectric properties in fresh trabecular bone tissue from 1MHz to 1000MHz: A fast and non destructive quality evaluation technique</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0078/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0078/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental techniques to evaluate in vitro trabecular bone properties and emerging numerical model</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0079/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0079/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

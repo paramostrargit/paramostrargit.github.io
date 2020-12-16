@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Federico Lotto | MELyMCB</title>
+    <link>https://paramostrargit.github.io/es/author/federico-lotto/</link>
+      <atom:link href="https://paramostrargit.github.io/es/author/federico-lotto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Federico Lotto</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Sat, 21 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>Federico Lotto</title>
+      <link>https://paramostrargit.github.io/es/author/federico-lotto/</link>
+    </image>
+    
+    <item>
+      <title>Feliz día de la primavera!!</title>
+      <link>https://paramostrargit.github.io/es/post/2020/noticia1/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/es/post/2020/noticia1/</guid>
+      <description>&lt;p&gt;ChorIfly para recibir la primavera&lt;/p&gt;
+&lt;p&gt;Hay más fotos pero no eran para este tipo de sitios.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

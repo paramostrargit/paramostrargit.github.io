@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Damas | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/j.-damas/</link>
+      <atom:link href="https://paramostrargit.github.io/author/j.-damas/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Damas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>J. Damas</title>
+      <link>https://paramostrargit.github.io/author/j.-damas/</link>
+    </image>
+    
+    <item>
+      <title>Master curves for the stress tensor invariants in stationary states of static granular beds. Implications for the thermodynamic phase space</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0064/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0064/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a relevant set of state variables to describe static granular packings</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0069/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0069/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Ruff | MELyMCB</title>
+    <link>https://paramostrargit.github.io/es/author/m.-ruff/</link>
+      <atom:link href="https://paramostrargit.github.io/es/author/m.-ruff/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Ruff</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Ruff</title>
+      <link>https://paramostrargit.github.io/es/author/m.-ruff/</link>
+    </image>
+    
+    <item>
+      <title>Post-translational modifications in DNA topoisomerase 2α highlight the role of a eukaryote-specific residue in the ATPase domain</title>
+      <link>https://paramostrargit.github.io/es/publication/melymcb-0006/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/es/publication/melymcb-0006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publisher Correction: Post-translational modifications in DNA topoisomerase 2α highlight the role of a eukaryote-specific residue in the ATPase domain (Scientific Reports (2018) DOI: 10.1038/s41598-018-27606-8)</title>
+      <link>https://paramostrargit.github.io/es/publication/melymcb-0005/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/es/publication/melymcb-0005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Ettelaie | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/r.-ettelaie/</link>
+      <atom:link href="https://paramostrargit.github.io/author/r.-ettelaie/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Ettelaie</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>R. Ettelaie</title>
+      <link>https://paramostrargit.github.io/author/r.-ettelaie/</link>
+    </image>
+    
+    <item>
+      <title>Brownian dynamics simulation of adsorbed layers of interacting particles subjected to large extensional deformation</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0116/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0116/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

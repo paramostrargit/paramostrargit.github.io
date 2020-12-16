@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y.B. Martínez | MELyMCB</title>
+    <link>https://paramostrargit.github.io/es/author/y.b.-martinez/</link>
+      <atom:link href="https://paramostrargit.github.io/es/author/y.b.-martinez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y.B. Martínez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>Y.B. Martínez</title>
+      <link>https://paramostrargit.github.io/es/author/y.b.-martinez/</link>
+    </image>
+    
+    <item>
+      <title>Pressure effect on micellization of non-ionic surfactant Triton X-100</title>
+      <link>https://paramostrargit.github.io/es/publication/melymcb-0011/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/es/publication/melymcb-0011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

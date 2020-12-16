@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Manuel Carlevaro | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/c.-manuel-carlevaro/</link>
+      <atom:link href="https://paramostrargit.github.io/author/c.-manuel-carlevaro/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Manuel Carlevaro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>C. Manuel Carlevaro</title>
+      <link>https://paramostrargit.github.io/author/c.-manuel-carlevaro/</link>
+    </image>
+    
+    <item>
+      <title>Nonlinear dynamic analysis of an optimal particle damper</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0043/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0043/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum hypernetted chain approximation for one-dimensional fermionic systems</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0076/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0076/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
