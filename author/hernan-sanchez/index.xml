@@ -5,36 +5,12 @@
     <link>https://paramostrargit.github.io/author/hernan-sanchez/</link>
       <atom:link href="https://paramostrargit.github.io/author/hernan-sanchez/index.xml" rel="self" type="application/rss+xml" />
     <description>Hernán Sánchez</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
       <title>Hernán Sánchez</title>
       <link>https://paramostrargit.github.io/author/hernan-sanchez/</link>
     </image>
-    
-    <item>
-      <title>Uncertainties and temperature correction in molecular dynamic simulations of dielectric properties of condensed polar systems</title>
-      <link>https://paramostrargit.github.io/publication/melymcb-0002/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://paramostrargit.github.io/publication/melymcb-0002/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uncertainties in the static dielectric constants computed from molecular dynamics simulations</title>
-      <link>https://paramostrargit.github.io/publication/melymcb-0000/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://paramostrargit.github.io/publication/melymcb-0000/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Revisiting the thermochemistry of chlorine fluorides</title>
-      <link>https://paramostrargit.github.io/publication/melymcb-0016/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://paramostrargit.github.io/publication/melymcb-0016/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

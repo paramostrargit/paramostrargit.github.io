@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mezclas binarias y terciarias | MELyMCB</title>
+    <link>https://paramostrargit.github.io/es/tag/mezclas-binarias-y-terciarias/</link>
+      <atom:link href="https://paramostrargit.github.io/es/tag/mezclas-binarias-y-terciarias/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mezclas binarias y terciarias</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>Mezclas binarias y terciarias</title>
+      <link>https://paramostrargit.github.io/es/tag/mezclas-binarias-y-terciarias/</link>
+    </image>
+    
+    <item>
+      <title>Estudio de fluidos confinados en sistemas de interés tecnológico</title>
+      <link>https://paramostrargit.github.io/es/project/pue/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/es/project/pue/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Resumen del proyecto&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;En este proyecto se estudian de diversos aspectos relacionados con los fenómenos 
+complejos que presentan los fluidos confinados. Se aborda el análisis tanto de propiedades 
+generales de fluidos en confinamiento a escalas nanométrica y micrométrica, como cuestiones 
+específicas relacionadas con sistemas de interés tecnológico. Mediante la utilización de 
+herramientas teóricas, representaciones y simulaciones computacionales, y experimentos, 
+se estudian aspectos estructurales, termodinámicos de equilibrio, y de flujo y transporte 
+en sistemas en los cuales la interacción de la fase fluida con las paredes confinantes es 
+determinante.&lt;/p&gt;
+&lt;p&gt;En este proyecto participan, además de miembros del grupo, investigadores de otros grupos y 
+personal de apoyo del IFLySiB.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

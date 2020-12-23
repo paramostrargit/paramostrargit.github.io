@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meson | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/meson/</link>
+      <atom:link href="https://paramostrargit.github.io/author/meson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>Meson</title>
+      <link>https://paramostrargit.github.io/author/meson/</link>
+    </image>
+    
+    <item>
+      <title>Large deviations for multiple ergodic averages</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0014/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multifractal Spectrum for Barycentric Averages</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0020/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On L1 convergence of barycentric sequences of empirical measures</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0025/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the perturbation of partially hyperbolic endomorphisms</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0039/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0039/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

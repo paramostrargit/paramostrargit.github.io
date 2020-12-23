@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vasco | MELyMCB</title>
+    <link>https://paramostrargit.github.io/author/vasco/</link>
+      <atom:link href="https://paramostrargit.github.io/author/vasco/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vasco</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paramostrargit.github.io/images/icon_hufef3f319e633bcef49e8ed6e89854070_16329_512x512_fill_lanczos_center_2.png</url>
+      <title>Vasco</title>
+      <link>https://paramostrargit.github.io/author/vasco/</link>
+    </image>
+    
+    <item>
+      <title>A magnetosome chain viewed as a bio-elastic magnet</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0026/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-organization of plants in a dryland ecosystem: Symmetry breaking and critical cluster size</title>
+      <link>https://paramostrargit.github.io/publication/melymcb-0029/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://paramostrargit.github.io/publication/melymcb-0029/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

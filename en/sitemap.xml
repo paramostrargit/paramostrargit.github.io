@@ -34,7 +34,7 @@
   
   <url>
     <loc>https://paramostrargit.github.io/author/luciana-m.-luque/</loc>
-    <lastmod>2020-12-08T22:00:54-03:00</lastmod>
+    <lastmod>2020-11-30T14:10:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -49,7 +49,7 @@
   
   <url>
     <loc>https://paramostrargit.github.io/author/manuel-carlevaro/</loc>
-    <lastmod>2020-12-15T09:28:00-03:00</lastmod>
+    <lastmod>2020-11-30T14:10:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -109,7 +109,7 @@
   
   <url>
     <loc>https://paramostrargit.github.io/author/ramiro-m.-irastorza/</loc>
-    <lastmod>2020-12-15T09:28:00-03:00</lastmod>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -138,6 +138,21 @@
   </url>
   
   <url>
+    <loc>https://paramostrargit.github.io/author/ariel-g.-meyra/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/ariel-g.-meyra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/ariel-g.-meyra/"
+                />
+  </url>
+  
+  <url>
     <loc>https://paramostrargit.github.io/tag/cancer/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -149,6 +164,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://paramostrargit.github.io/tag/cancer/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/tag/dinamica-molecular/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/tag/dinamica-molecular/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/tag/dinamica-molecular/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/project/pue/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/project/pue/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/project/pue/"
                 />
   </url>
   
@@ -168,6 +213,36 @@
   </url>
   
   <url>
+    <loc>https://paramostrargit.github.io/tag/fluidos-confinados/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/tag/fluidos-confinados/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/tag/fluidos-confinados/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/author/guillermo-j.-zarragoicoechea/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/guillermo-j.-zarragoicoechea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/guillermo-j.-zarragoicoechea/"
+                />
+  </url>
+  
+  <url>
     <loc>https://paramostrargit.github.io/tag/inmunoterapias/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -183,6 +258,36 @@
   </url>
   
   <url>
+    <loc>https://paramostrargit.github.io/tag/medios-porosos/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/tag/medios-porosos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/tag/medios-porosos/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/tag/mezclas-binarias-y-terciarias/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/tag/mezclas-binarias-y-terciarias/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/tag/mezclas-binarias-y-terciarias/"
+                />
+  </url>
+  
+  <url>
     <loc>https://paramostrargit.github.io/tag/modelo-basado-en-agentes/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -194,6 +299,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://paramostrargit.github.io/tag/modelo-basado-en-agentes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/tag/modelos-computacionales/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/tag/modelos-computacionales/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/tag/modelos-computacionales/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/tag/monte-carlo/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/tag/monte-carlo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/tag/monte-carlo/"
                 />
   </url>
   
@@ -224,6 +359,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://paramostrargit.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/tag/tejido-oseo/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/tag/tejido-oseo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/tag/tejido-oseo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/author/y.-ricardo-espinosa-silva/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/y.-ricardo-espinosa-silva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/y.-ricardo-espinosa-silva/"
                 />
   </url>
   
@@ -359,7 +524,7 @@
   
   <url>
     <loc>https://paramostrargit.github.io/author/luis-a.-pugnaloni/</loc>
-    <lastmod>2020-12-15T09:28:00-03:00</lastmod>
+    <lastmod>2019-11-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -384,21 +549,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://paramostrargit.github.io/post/2020/noticia3/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paramostrargit.github.io/author/ariel-g.-meyra/</loc>
-    <lastmod>2020-12-15T09:28:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/author/ariel-g.-meyra/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/author/ariel-g.-meyra/"
                 />
   </url>
   
@@ -433,66 +583,6 @@
   </url>
   
   <url>
-    <loc>https://paramostrargit.github.io/author/guillermo-j.-zarragoicoechea/</loc>
-    <lastmod>2020-12-15T09:28:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/author/guillermo-j.-zarragoicoechea/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/author/guillermo-j.-zarragoicoechea/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paramostrargit.github.io/author/e.-v.-albano/</loc>
-    <lastmod>2020-12-08T22:00:54-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/author/e.-v.-albano/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/author/e.-v.-albano/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paramostrargit.github.io/publication/luque-2019/</loc>
-    <lastmod>2020-12-08T22:00:54-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/publication/luque-2019/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/publication/luque-2019/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paramostrargit.github.io/author/s.-a.-grigera/</loc>
-    <lastmod>2020-12-08T22:00:54-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/author/s.-a.-grigera/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/author/s.-a.-grigera/"
-                />
-  </url>
-  
-  <url>
     <loc>https://paramostrargit.github.io/author/e.r.-caffarena/</loc>
     <lastmod>2020-12-15T09:28:08-03:00</lastmod>
     <xhtml:link
@@ -508,17 +598,17 @@
   </url>
   
   <url>
-    <loc>https://paramostrargit.github.io/author/hernan-sanchez/</loc>
+    <loc>https://paramostrargit.github.io/author/hernan/</loc>
     <lastmod>2020-12-15T09:27:59-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://paramostrargit.github.io/es/author/hernan-sanchez/"
+                href="https://paramostrargit.github.io/es/author/hernan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://paramostrargit.github.io/author/hernan-sanchez/"
+                href="https://paramostrargit.github.io/author/hernan/"
                 />
   </url>
   
@@ -538,17 +628,77 @@
   </url>
   
   <url>
-    <loc>https://paramostrargit.github.io/author/marcos-a.-madrid/</loc>
-    <lastmod>2020-12-15T09:27:58-03:00</lastmod>
+    <loc>https://paramostrargit.github.io/author/luis/</loc>
+    <lastmod>2020-12-15T09:28:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://paramostrargit.github.io/es/author/marcos-a.-madrid/"
+                href="https://paramostrargit.github.io/es/author/luis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://paramostrargit.github.io/author/marcos-a.-madrid/"
+                href="https://paramostrargit.github.io/author/luis/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/author/manuel/</loc>
+    <lastmod>2020-12-15T09:28:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/manuel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/manuel/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/author/marcos/</loc>
+    <lastmod>2020-12-15T09:27:58-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/marcos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/marcos/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/author/ramiro/</loc>
+    <lastmod>2020-12-15T09:28:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/ramiro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/ramiro/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/author/ricardo/</loc>
+    <lastmod>2020-12-15T09:27:58-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/ricardo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/ricardo/"
                 />
   </url>
   
@@ -609,21 +759,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://paramostrargit.github.io/publication/melymcb-0001/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paramostrargit.github.io/author/y.-ricardo-espinosa-silva/</loc>
-    <lastmod>2020-12-15T09:27:58-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/author/y.-ricardo-espinosa-silva/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/author/y.-ricardo-espinosa-silva/"
                 />
   </url>
   
@@ -868,21 +1003,6 @@
   </url>
   
   <url>
-    <loc>https://paramostrargit.github.io/author/eduardo-howard/</loc>
-    <lastmod>2020-12-15T09:28:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/author/eduardo-howard/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/author/eduardo-howard/"
-                />
-  </url>
-  
-  <url>
     <loc>https://paramostrargit.github.io/publication/melymcb-0009/</loc>
     <lastmod>2020-12-15T09:27:58-03:00</lastmod>
     <xhtml:link
@@ -898,21 +1018,6 @@
   </url>
   
   <url>
-    <loc>https://paramostrargit.github.io/author/fernando-vericat/</loc>
-    <lastmod>2020-12-15T09:28:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/author/fernando-vericat/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/author/fernando-vericat/"
-                />
-  </url>
-  
-  <url>
     <loc>https://paramostrargit.github.io/author/h.a.-alvarez/</loc>
     <lastmod>2020-12-15T09:27:58-03:00</lastmod>
     <xhtml:link
@@ -924,6 +1029,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://paramostrargit.github.io/author/h.a.-alvarez/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/author/howard/</loc>
+    <lastmod>2020-12-15T09:28:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/howard/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/howard/"
                 />
   </url>
   
@@ -1213,6 +1333,21 @@
   </url>
   
   <url>
+    <loc>https://paramostrargit.github.io/author/vericat/</loc>
+    <lastmod>2020-12-15T09:28:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/vericat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/vericat/"
+                />
+  </url>
+  
+  <url>
     <loc>https://paramostrargit.github.io/author/y.b.-martinez/</loc>
     <lastmod>2020-12-15T09:27:58-03:00</lastmod>
     <xhtml:link
@@ -1228,51 +1363,6 @@
   </url>
   
   <url>
-    <loc>https://paramostrargit.github.io/author/k.-binder/</loc>
-    <lastmod>2020-12-08T22:00:54-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/author/k.-binder/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/author/k.-binder/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paramostrargit.github.io/author/m.-l.-trobo/</loc>
-    <lastmod>2020-12-08T22:00:54-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/author/m.-l.-trobo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/author/m.-l.-trobo/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paramostrargit.github.io/publication/phys-rev-e-95-022801/</loc>
-    <lastmod>2020-12-08T22:00:54-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/publication/phys-rev-e-95-022801/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/publication/phys-rev-e-95-022801/"
-                />
-  </url>
-  
-  <url>
     <loc>https://paramostrargit.github.io/publication-type/1/</loc>
     <lastmod>2020-12-15T09:28:08-03:00</lastmod>
     <xhtml:link
@@ -1284,21 +1374,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://paramostrargit.github.io/publication-type/1/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paramostrargit.github.io/author/alejandro-meson/</loc>
-    <lastmod>2020-12-15T09:28:00-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/author/alejandro-meson/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/author/alejandro-meson/"
                 />
   </url>
   
@@ -1359,6 +1434,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://paramostrargit.github.io/author/m.-trujillo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/author/meson/</loc>
+    <lastmod>2020-12-15T09:28:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/meson/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/meson/"
                 />
   </url>
   
@@ -1573,6 +1663,21 @@
   </url>
   
   <url>
+    <loc>https://paramostrargit.github.io/author/kuz/</loc>
+    <lastmod>2020-12-15T09:28:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/kuz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/kuz/"
+                />
+  </url>
+  
+  <url>
     <loc>https://paramostrargit.github.io/author/l.-kondic/</loc>
     <lastmod>2020-12-15T09:27:59-03:00</lastmod>
     <xhtml:link
@@ -1659,6 +1764,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://paramostrargit.github.io/author/m.p.-blakeley/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/author/meyra/</loc>
+    <lastmod>2020-12-15T09:28:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/meyra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/meyra/"
                 />
   </url>
   
@@ -1798,17 +1918,17 @@
   </url>
   
   <url>
-    <loc>https://paramostrargit.github.io/author/victor-kuz/</loc>
+    <loc>https://paramostrargit.github.io/author/vasco/</loc>
     <lastmod>2020-12-15T09:28:00-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://paramostrargit.github.io/es/author/victor-kuz/"
+                href="https://paramostrargit.github.io/es/author/vasco/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://paramostrargit.github.io/author/victor-kuz/"
+                href="https://paramostrargit.github.io/author/vasco/"
                 />
   </url>
   
@@ -1824,111 +1944,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://paramostrargit.github.io/author/w.m.-valsecchi/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paramostrargit.github.io/author/albano/</loc>
-    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/author/albano/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/author/albano/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paramostrargit.github.io/tag/blume-emery-griffiths/</loc>
-    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/tag/blume-emery-griffiths/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/tag/blume-emery-griffiths/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paramostrargit.github.io/project/wetting/</loc>
-    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/project/wetting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/project/wetting/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paramostrargit.github.io/tag/fenomenos-criticos/</loc>
-    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/tag/fenomenos-criticos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/tag/fenomenos-criticos/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paramostrargit.github.io/tag/metropolis/</loc>
-    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/tag/metropolis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/tag/metropolis/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paramostrargit.github.io/author/santiago/</loc>
-    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/author/santiago/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/author/santiago/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paramostrargit.github.io/tag/wang-landau/</loc>
-    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://paramostrargit.github.io/es/tag/wang-landau/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paramostrargit.github.io/tag/wang-landau/"
                 />
   </url>
   
@@ -3866,6 +3881,20 @@
   </url>
   
   <url>
+    <loc>https://paramostrargit.github.io/author/alejandro-meson/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/alejandro-meson/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/alejandro-meson/"
+                />
+  </url>
+  
+  <url>
     <loc>https://paramostrargit.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -3876,6 +3905,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://paramostrargit.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/author/eduardo-howard/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/eduardo-howard/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/eduardo-howard/"
                 />
   </url>
   
@@ -3904,6 +3947,48 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://paramostrargit.github.io/author/federico-vega/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/author/fernando-vericat/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/fernando-vericat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/fernando-vericat/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/author/hernan-sanchez/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/hernan-sanchez/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/hernan-sanchez/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/author/marcos-a.-madrid/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/marcos-a.-madrid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/marcos-a.-madrid/"
                 />
   </url>
   
@@ -3946,6 +4031,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://paramostrargit.github.io/author/santiago-mosca/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paramostrargit.github.io/author/victor-kuz/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://paramostrargit.github.io/es/author/victor-kuz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paramostrargit.github.io/author/victor-kuz/"
                 />
   </url>
   
